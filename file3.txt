@@ -1,1 +1,2 @@
 testing file 3 content
+Truong changed this file a bit.
